@@ -1,0 +1,26 @@
+<recipe>
+  <title>Silpancho</title>
+  <recipeinfo>
+    <blurb> Esta receta de silpancho es una típica y contundente preparación originaria de Cochabamba, ciudad de Bolivia </blurb>
+    <genre>Plato Boliviano. </genre>
+    <author> Desconocido. </author>
+    <yield> 1 personas. </yield>
+    <preptime> 2-3 horas. </preptime>
+  </recipeinfo>
+  <ingredientlist>
+    <ingredient> 700 gramos de pan rallado </ingredient>
+    <ingredient> 300 gramos de pan rallado </ingredient>
+    <ingredient> 200 gramos de arroz </ingredient>
+    <ingredient> 4 patatas medianas</ingredient>
+    <ingredient> 2 tomates </ingredient>
+    <ingredient> 1 pimiento rojo </ingredient>
+    <ingredient> 1 pimiento verde</ingredient>
+    <ingredient> 1 cebolla mediana </ingredient>
+    <ingredient> 4 huevos </ingredient>
+    <ingredient> 1 chorro aceite y vinegra</ingredient>
+    <ingredient> 1 pizca de sal</ingredient>    
+    <ingredient> 1 pizca de pimienta y comino (Opcional)</ingredient>
+  </ingredientlist>
+  <preparation> </preparation>
+  <serving> </serving>
+</recipe>

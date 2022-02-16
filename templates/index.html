@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <link rel="stylesheet" href="{{url_for('static', filename='css/styles.css')}}">
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+</head>
+
+<body>
+
+  <div id="app-container" class="m-auto">
+    <div id="app" class="container text-center p-5 bg-white rounded shadow">
+      <div id="header">
+        <h1>Receptes de cuina</h1>
+        <hr>
+      </div>
+      <div id="select-menu" class="mb-4">
+        <div class="row">
+          <div class="col-8 m-auto">
+            <select class="form-select text-center w-50 m-auto" aria-label="Default select example" id="select">
+              <option selected>Select Dish</option>
+            </select>
+          </div>
+          <div class="col-4"></div>
+        </div>
+      </div>
+      <div class="spinner-grow text-center m-auto" role="status" id="spinner">
+        <span class="sr-only"></span>
+      </div>
+      <div id="main" style="display: none;">
+        <div id="title" class="mb-4">
+          <div id="title-container" class="container w-50 p-3 rounded">
+            <h3 id="title-header"></h4>
+              <hr>
+          </div>
+        </div>
+        <div id="title-body" class="container mb-5">
+          <div class="row container" id="custom">
+            <div class="col-1 nopadding"></div>
+            <div class="col-2 nopadding mb-1" id="dish-title"></div>
+            <div class="col-8 nopadding mb-1" id="ingredients-title">Ingredients</div>
+            <div class="col-1 nopadding"></div>
+          </div>
+          <div class="row container">
+            <div class="col-1 nopadding"></div>
+            <div class="col-2 rounded nopadding" id="img-container"></div>
+            <div class="col-8 nopadding" id="ingredients-container">
+              <ul class="list-group">
+              </ul>
+            </div>
+            <div class="col-1 nopadding"></div>
+          </div>
+        </div>
+        <div id="steps-cook">
+          <div class="accordion accordion-flush" id="accordionFlushExample">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="flush-headingOne">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                  Preparation
+                </button>
+              </h2>
+              <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne"
+                data-bs-parent="#accordionFlushExample">
+                <div class="accordion-body" id="preparation">
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="flush-headingTwo">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                  Serving
+                </button>
+              </h2>
+              <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
+                data-bs-parent="#accordionFlushExample">
+                <div class="accordion-body" id="serving">
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="flush-headingThree">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                  Recipe Info
+                </button>
+              </h2>
+              <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree"
+                data-bs-parent="#accordionFlushExample">
+                <div class="accordion-body" id="recipe-info">
+                  <ul id="recipe-list">
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="{{url_for('static', filename='js/receptes.js')}}"></script>
+  <script src="{{url_for('static', filename='js/main.js')}}"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>

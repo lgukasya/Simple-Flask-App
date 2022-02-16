@@ -1,0 +1,34 @@
+<recipe>
+  <title>BOLITAS DE PATATA RELLENAS DE QUESO</title>
+  <recipeinfo>
+    <blurb>bbb</blurb>
+    <genre>patatas</genre>
+    <author>Laura</author>
+    <yield>yyy</yield>
+    <preptime>2h 30 minutos</preptime>
+  </recipeinfo>
+  <ingredientlist>
+    <ingredient>3 papas medianas</ingredient>
+    <ingredient>2 huevos relleno + 2 huevos empanar</ingredient>
+    <ingredient>70 gr. mantequilla</ingredient>
+    <ingredient>Queso fundente (provolone, mozzarella, cheddar, etc.)</ingredient>
+    <ingredient>1 cucharadita de sal</ingredient>
+    <ingredient>Pimienta recién molida al gusto</ingredient>
+    <ingredient>Harina</ingredient>
+    <ingredient>Pan rallado</ingredient>
+  </ingredientlist>
+
+  <preparation>Pon una cacerola con abundante agua al fuego y una pizca de sal. Lava las patatas e introdúcelas así, sin pelar, solamente lavadas. El tiempo de cocción puede variar en función del tipo y el tamaño de la patata, pero calculemos que entre 20 y 30 minutos deberían de estar listas. Para comprobarlo sólo tienes que pinchar con un cuchillo la patata y tienes que poder pincharla sin hacer fuerza, que notes que está cocida.
+               Una vez que estén listas escurres las patatas y las dejas atemperar. En el momento en el que ya puedas cogerlas sin quemarte las manos, pélalas. Ponlas en un bol, córtalas en trozos y aplástalas con un tenedor hasta que tengas toda la patata aplastada como un puré.
+               A continuación será el momento de añadir las especias que quieras para tu patata, en nuestro caso sólo le vamos a añadir un poco de sal y pimienta recién molida. Para que quede más suave se le añade mantequilla reblandecida a temperatura ambiente y, si veis que la patata está más bien fría, un par de yemas de huevo. Mézclalo todo bien.
+               Pones la patata en un recipiente hermético o que puedas tapar cómodamente con film transparente y la dejas reposar unos 45 – 60 minutos en la nevera.
+               Mientras tanto prepara los daditos de queso. Nosotros hemos utilizado un queso suave, como es el provolone pero podéis usar cualquiera que se funda.
+               Saca la masa de patata, haces una bola y en el centro -con la yema del dedo- haces una hendidura donde colocas el queso (uno o dos trocitos, en función del tamaño de tu patata). Cierra la bola de patata con la mano y ya la tienes lista.
+               Cuando las tengas listas hacemos el empanado. Primero pasas cada bola por harina (sacude suavemente si ves que queda algún exceso en la superficie), luego por huevo batido y después por pan rallado (puedes añadirle alguna especia o tal cual, puedes hacer tu pan rallado en casa, comprar uno fino o uno grueso).
+               Pon una sartén o cacerola honda al fuego, llena de aceite de oliva virgen o de aceite vegetal, cuando esté caliente (vamos a mantener una temperatura suave para que no se quemen) añades las bolas de patata con delicadeza para no quemarte ni aplastarlas. Se cocinan durante 3 o 4 minutos, girándolas para que adquieran un color dorado precioso por cada lado.
+               Después las sacas a un plato previamente forrado con papel de cocina y déjalas unos instantes para que absorba la grasa. 
+               </preparation>
+         
+  <serving>sirve rapidito</serving>
+  <imagen enlace="img/bolitas-de-queso-2.jpg"></imagen>
+</recipe>

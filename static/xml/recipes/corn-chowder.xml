@@ -1,0 +1,25 @@
+<recipe>
+  <title>Corn Chowder</title>
+  <recipeinfo>
+    <blurb>Autumn comfort food.</blurb>
+    <genre>Soup</genre>
+    <author>David Horton</author>
+    <yield>8 servings</yield>
+    <preptime>One hour</preptime>
+  </recipeinfo>
+  <ingredientlist>
+    <ingredient>2 Tbsp. butter</ingredient>
+    <ingredient>medium onion, diced</ingredient>
+    <ingredient>2 cloves garlic, minced</ingredient>
+    <ingredient>2 ribs celery, chopped</ingredient>
+    <ingredient>1 red pepper, diced</ingredient>
+    <ingredient>4 ears of corn kernels cut from the cob</ingredient>
+    <ingredient>2 Tbsp. flour</ingredient>
+    <ingredient>2 C. chicken broth</ingredient>
+    <ingredient>2 C. whole milk</ingredient>
+    <ingredient>3 medium red potatoes, cubed</ingredient>
+    <ingredient>Salt and pepper to taste</ingredient>
+  </ingredientlist>
+  <preparation>Heat butter in a 3-quart saucepan. Add onion, garlic, celery, red pepper and corn. Sweat vegetables over medium-low heat until onion is translucent.\n\nAdd flour to thicken the mixture. Stir often. Add broth and potatoes and bring to a boil. Reduce heat to low and simmer until potatoes are tender, about 30 minutes. Stir in milk.\n\nAdd salt and pepper to taste.</preparation>
+  <serving>Serve with homemade biscuits or bread.</serving>
+</recipe>

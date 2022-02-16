@@ -1,0 +1,19 @@
+<recipe>
+    <title>Ous de guatlla amb bacon</title>
+    <recipeinfo>
+        <author>Xavier Grau</author>
+        <yield>6 persones</yield>
+    </recipeinfo>
+    <ingredientlist>
+        <ingredient>Ous de guatlla</ingredient>
+        <ingredient>Bacon</ingredient>
+        <ingredient>1 barra de pa estreta</ingredient>
+        <ingredient>Oli d'oliva</ingredient>
+        <ingredient>Sal Maldon</ingredient>
+    </ingredientlist>
+
+    <preparation>Tallarem la barra de pa en llesques primes i les posarem en un plat repartides. \n \n
+        En una paella amb abundant oli, i fregirem els ous de guatlla d’un en un, posant-los per sobre de cada una de les llesques de pa tallat. Posarem per sobre un polset de sal Maldon i deixarem.\n \n
+        En una paella apart, hi fregirem amb una mica d’oli el bacon, que abans haurem tallat ben petitó. A mesura que sigui fregit, anirem posant per sobre dels ous.</preparation>
+    <serving>Cal servir-ho ben calent tot plegat.</serving>
+</recipe>

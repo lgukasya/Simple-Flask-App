@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
+
+*{
+    box-sizing: content-box !important;
+}
+
+body {
+    background: #B79891;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #94716B, #B79891);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #94716B, #B79891); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: 'Nunito', sans-serif !important;
+}
+
+#app{
+    font-weight: bold;
+}
+
+#title-container{
+    letter-spacing: 4px;
+    background-color: #94716b38;
+}
+
+.nopadding{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+#img-container{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#ingredients-container{
+    overflow: auto;
+    height: 200px;
+    border-left: 5px solid white;
+}
+
+#dish-title, #ingredients-title{
+    background-color: rgba(128, 128, 128, 0.300);
+    font-size: 25px;
+    padding: 10px 0px !important;
+    letter-spacing: 2px;
+}
+
+li:nth-of-type(odd){
+    background-color: #94716b31 !important;
+}
+
+#preparation, #serving, #recipe-info{
+    text-align: left;
+}
+
+#spinner, #main{
+    display: none;
+}

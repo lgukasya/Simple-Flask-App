@@ -1,0 +1,32 @@
+<recipe>
+    <title>Espagueti a la bolonyesa</title>
+    <recipeinfo>
+        <blurb>Un bon acompanyament amb la tortilla de patates</blurb>
+        <genre>Pasta</genre>
+        <author>John Cordial</author>
+        <yield>6 plats</yield>
+        <preptime>40 minuts</preptime>
+    </recipeinfo>
+    <ingredientlist>
+        <ingredient>500g de espaguetis</ingredient>
+        <ingredient>1kg de carn picada</ingredient>
+        <ingredient>1 ceba</ingredient>
+        <ingredient>2 pastanagas</ingredient>
+        <ingredient>500g de tomaquet triturat</ingredient>
+        <ingredient>1 dent d'all</ingredient>
+        <ingredient>Pebre</ingredient>
+        <ingredient>Sal</ingredient>
+        <ingredient>Oregà</ingredient>
+        <ingredient>Julivert</ingredient>
+        <ingredient>Oli d'oliva</ingredient>
+        <ingredient>Formatge parmesà</ingredient>
+    </ingredientlist>
+    <preparation>
+        Comencem tallant la ceba i el gra d'all a daus petits. Fem oli d'oliva a la paella i un cop calent féu la ceba i el gra d'all i deixeu que escalfi. \n\nQuan la ceba ha agafat color, fem el tomàquet triturat i deixem passar un parell de minuts. Passats els parells de minuts
+        tirem la sal al gust al costat d'un pessic de sucre per treure l'acidesa del tomàquet, i un pessic de julivert i orenga.
+        Anem remenant-ho tot i deixem aproximadament uns 15 minuts perquè es cogui el tomàquet.\n\nEn una altra paella féu oli d'oliva i un cop calent féu la carn picada amb sal al gust. I ho deixem fins que
+        aquest daurat però no feta del tot.\nSeguidament, fem la carn picada a la paella on hi havia la salsa de tomàquet i ho deixem fins que s'acabi de fer-se.\n\nFinalment, posem els espaguetis en una cassola amb molta aigua calenta i amb una mica de sal. Un cop fets, l'escorrem
+        i els tirem a la paella de la salsa de tomàquet. \n\nHo barregem tot perquè agafin el sabor del tomàquet i la carn.
+    </preparation>
+    <serving>Ho servim en un plat acompanyat d'un plat de formatge parmesà, pa al costat i la tortilla de patates</serving>
+</recipe>

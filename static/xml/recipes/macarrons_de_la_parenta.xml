@@ -1,0 +1,35 @@
+<recipe>
+    <title>Macarrons de la Parenta</title>
+    <recipeinfo>
+      <blurb>Desde casa, cada dijous.</blurb>
+      <genre>Pasta i carn</genre>
+      <author>Joan Marc Maldonado i Sara.</author>
+      <yield>6 persones</yield>
+      <preptime>45 min</preptime>
+    </recipeinfo>
+    <ingredientlist>
+      <ingredient>150gr formatge Paddano</ingredient>
+      <ingredient>150gr formatge especial fundido pizzas y pastas</ingredient>
+      <ingredient>500 gr de Macarró gros</ingredient>
+      <ingredient>300 gr de Carn picada de Vacuno. No mesclada en altres carns.</ingredient>
+      <ingredient>4 cullerades de Ají preparat</ingredient>
+      <ingredient>Falksalt del Ikea aromatitzada en champiñons </ingredient>
+      <ingredient>150 gr de Champiño Orellut</ingredient>
+      <ingredient>Oli d'oliva verge extra de l'hort de casa.</ingredient>
+      <ingredient>Q/s de mix de Pebre</ingredient>
+      <ingredient>Tomata sofrigida</ingredient>
+      <ingredient>Q/s de Sal</ingredient>
+    </ingredientlist>
+  
+    <preparation>
+        Posa a bullir un litro de aigua a una cassola i cuan arranque el bull tira la perolada de macarrons \n
+        \n Treu la paella mes grossa que tinguis i tira quantitat generosa d'oli. \n
+        \n Posa tota la carn salpebrada, marcala un poc i tira l'ají. Deixa que impregni la carn un poc. \n
+        \n Ara tira la tomata i sofregeix-ho tot. \n 
+        \n En aquest punt ja estaran els macarrons bullits i la carn a punt i calenta. \n
+        \n Extén tot el contingut mesclat damunt una bandeja de forn ( precalentat ). \n
+        \n Tira tot el formatge per damunt sense miraments \n
+        \n Posa-ho al forn a 160 graus i esperat 17 minuts \n.
+    </preparation>
+    <serving>Servir amb abundància.</serving>
+</recipe>
