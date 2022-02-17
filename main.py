@@ -23,8 +23,3 @@ def xml():
     sleep(1)
     param = request.args.get('dish')
     return send_from_directory(directory="static/xml/recipes/", filename='{}.xml'.format(param), mimetype='text/xml')
-
-
-
-    
-
