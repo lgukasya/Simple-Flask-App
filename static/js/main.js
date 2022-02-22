@@ -22,6 +22,8 @@ var main = document.getElementById('main');
 
 function loadXML(e) {
 
+    if(e.target.value == 'Select Dish') return;
+
     var xmlhtpp = new XMLHttpRequest();
 
     xmlhtpp.onreadystatechange = (() => {
