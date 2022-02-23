@@ -63,7 +63,8 @@ async function JSONPHandler(value) {
     spinner.style.display = "none";
 
     title.innerHTML = r_title;
-    img.style.backgroundImage = `url(/static/xml/recipes/img/${global_url.replace('xml','png')})`;
+    img.style.backgroundImage = `url(http://joanqc.no-ip.biz/iesbalmes/wec/receptes/recipes22/img/${global_url.replace('xml','png')})`;
+    console.log(img.style.backgroundImage);
 
     list.innerHTML = '';
 

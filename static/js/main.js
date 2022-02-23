@@ -22,6 +22,8 @@ var main = document.getElementById('main');
 
 function loadXML(e) {
 
+    if(e.target.value == 'Select Dish') return;
+
     var xmlhtpp = new XMLHttpRequest();
 
     xmlhtpp.onreadystatechange = (() => {
@@ -49,7 +51,7 @@ function showResponse(data, img_name){
     var r_serving = (data.getElementsByTagName('serving')[0]) ? data.getElementsByTagName('serving')[0].firstChild.nodeValue: ""; 
     var r_recipe = (data.getElementsByTagName('recipeinfo')[0]) ? data.getElementsByTagName('recipeinfo')[0].children : "";
 
-    img.style.backgroundImage = `url(/static/xml/recipes/img/${img_name}.png)`;
+    img.style.backgroundImage = `/static/xml/recipes/img/${img_name}.png)`;
 
     list.innerHTML = '';
 
